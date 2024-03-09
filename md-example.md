@@ -37,9 +37,7 @@
 
 牛顿-莱布尼茨公式指出：
 
-$$
-\left. \int_a^b f(x) \mathrm dx = F(b) - F(a) = F(x) \right|_a^b
-$$
+$$\left. \int_a^b f(x) \mathrm dx = F(b) - F(a) = F(x) \right|_a^b$$
 
 其中 $F(x)$ 是 $f(x)$ 的原函数，或 $F'(x) = f(x)$
 
